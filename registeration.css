@@ -1,0 +1,67 @@
+
+body{
+    background-color: #e6f7ff;
+}
+h1
+{
+ font-size: 16 px;
+ text-align: center;
+ font-family: cursive;
+ padding-bottom: 20px;
+ color: blue;
+}
+form
+{
+text-align: center;
+line-height: 2rem;
+justify-content: center;
+ border: 2px solid green; 
+display: flex;
+flex-direction: column;
+width: 33%;
+padding-left: 20px;
+place-items: center;
+
+}
+#user
+{
+font-size: 16 px;
+width: 80%;
+justify-content: center;
+height: 20px;
+border-radius: 5px;
+border-style: groove;
+padding-left: 10px;
+
+}
+p
+{
+    color: blue;
+}
+#button
+{
+    width: 22%;
+ background-color: blue;
+ color: white;
+  
+    
+    
+}
+
+div
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 30px;
+}
+a:hover
+{
+color:green;
+text-decoration: transparent;
+}
+a p
+{
+    text-decoration: none;
+
+}
